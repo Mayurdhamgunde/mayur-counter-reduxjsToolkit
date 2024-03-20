@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+center{
+    background-color: black;
+    font-family: cursive;
+}
+
+.controls-row{
+    margin-top: 10px;
+}
+.number-input{
+    max-width: 112px;
+}
+.card{
+    margin-left:21vw;
+    margin-top: 16vh;
+}
+.card-body{
+    /* background-color: rgb(105, 246, 176); */
+    background-color: rgb(251, 138, 118);
+}
